@@ -25,6 +25,7 @@ Agricultural environments are dynamic: crop types, growth stages, and conditions
 - Demonstrates **high robustness** under missing modality scenarios.
 
 ---
+![MCLC-Net Framework](./assets/mclc_framework.png)
 
 ## 📌 Part 2: Continual Learning for Sound Anomaly Detection
 
@@ -42,7 +43,9 @@ Industrial environments are dynamic: machine sounds shift due to **wear, load, a
 
 - **Improved State-of-the-Art with ViT**  
   Enhanced **Co2L** framework by replacing CNN backbone with a **Vision Transformer (ViT)**, leveraging its ability to capture global dependencies in spectrograms.
-
+  
+![DCASE Dataset Structure](./assets/dcase_structure_CI.png)
+![DCASE Dataset Structure](./assets/dcase_structure_DI.png)
 ### 📊 Results
 - **Co2L (ViT)** achieves:  
   - ~**4% higher accuracy (78.30%)** in DI setting vs. ResNet-based Co2L.  
