@@ -25,7 +25,7 @@ Agricultural environments are dynamic: crop types, growth stages, and conditions
 - Demonstrates **high robustness** under missing modality scenarios.
 
 ---
-![MCLC-Net Framework](./assets/mclc_framework.png)
+![MCLC-Net Framework](/assets/mclc_framework.png)
 
 ## 📌 Part 2: Continual Learning for Sound Anomaly Detection
 
